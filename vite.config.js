@@ -2,9 +2,10 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
+  base: "/learning-api-1/",
   plugins: [react()],
   build: {
-    outDir: "releases/1.0.0",
+    outDir: "docs",
   },
   server: {
     host: "0.0.0.0",
