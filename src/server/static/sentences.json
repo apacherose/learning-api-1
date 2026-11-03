@@ -1,0 +1,352 @@
+[
+  {
+    "text": "I have a red ball.",
+    "level": "easy",
+    "i18_bg": "Аз имам червена топка."
+  },
+  {
+    "text": "My cat is very small.",
+    "level": "easy",
+    "i18_bg": "Моята котка е много малка."
+  },
+  {
+    "text": "I like to eat apples.",
+    "level": "easy",
+    "i18_bg": "Обичам да ям ябълки."
+  },
+  {
+    "text": "The sun is yellow.",
+    "level": "easy",
+    "i18_bg": "Слънцето е жълто."
+  },
+  {
+    "text": "This is my best friend.",
+    "level": "easy",
+    "i18_bg": "Това е моят най-добър приятел."
+  },
+  {
+    "text": "I go to school every day.",
+    "level": "easy",
+    "i18_bg": "Ходя на училище всеки ден."
+  },
+  {
+    "text": "My dog can run fast.",
+    "level": "easy",
+    "i18_bg": "Моето куче може да тича бързо."
+  },
+  {
+    "text": "I have two blue pencils.",
+    "level": "easy",
+    "i18_bg": "Имам два сини молива."
+  },
+  {
+    "text": "The bird is in the tree.",
+    "level": "easy",
+    "i18_bg": "Птичката е на дървото."
+  },
+  {
+    "text": "I love my family.",
+    "level": "easy",
+    "i18_bg": "Обичам семейството си."
+  },
+   {
+    "text": "I usually walk to school with my best friend.",
+    "level": "medium",
+    "i18_bg": "Обикновено ходя на училище пеша с най-добрия си приятел."
+  },
+  {
+    "text": "My little sister is drawing a beautiful flower.",
+    "level": "medium",
+    "i18_bg": "Малката ми сестра рисува красиво цвете."
+  },
+  {
+    "text": "We went to the park and played with a ball.",
+    "level": "medium",
+    "i18_bg": "Отидохме в парка и играхме с топка."
+  },
+  {
+    "text": "There are three birds sitting on the tree.",
+    "level": "medium",
+    "i18_bg": "На дървото седят три птици."
+  },
+  {
+    "text": "My mother makes delicious pancakes every Sunday.",
+    "level": "medium",
+    "i18_bg": "Майка ми прави вкусни палачинки всяка неделя."
+  },
+  {
+    "text": "I always brush my teeth before I go to bed.",
+    "level": "medium",
+    "i18_bg": "Винаги си мия зъбите, преди да си легна."
+  },
+  {
+    "text": "Tom forgot his lunchbox at home this morning.",
+    "level": "medium",
+    "i18_bg": "Том забрави кутията си за обяд вкъщи тази сутрин."
+  },
+  {
+    "text": "When it rains, I like to read a book at home.",
+    "level": "medium",
+    "i18_bg": "Когато вали дъжд, обичам да чета книга вкъщи."
+  },
+  {
+    "text": "My brother can ride his bike faster than me.",
+    "level": "medium",
+    "i18_bg": "Брат ми може да кара колелото си по-бързо от мен."
+  },
+  {
+    "text": "We are going to visit our grandparents next weekend.",
+    "level": "medium",
+    "i18_bg": "Ще посетим баба и дядо следващия уикенд."
+  },
+  {
+    "text": "The cat is small.",
+    "level": "easy",
+    "i18_bg": "Котката е малка."
+  },
+  {
+    "text": "I like apples.",
+    "level": "easy",
+    "i18_bg": "Харесвам ябълки."
+  },
+  {
+    "text": "The sun is yellow.",
+    "level": "easy",
+    "i18_bg": "Слънцето е жълто."
+  },
+  {
+    "text": "This is a red ball.",
+    "level": "easy",
+    "i18_bg": "Това е червена топка."
+  },
+  {
+    "text": "Look at the big dog.",
+    "level": "easy",
+    "i18_bg": "Виж голямото куче."
+  },
+  {
+    "text": "She has two books.",
+    "level": "easy",
+    "i18_bg": "Тя има две книги."
+  },
+  {
+    "text": "The sky is blue.",
+    "level": "easy",
+    "i18_bg": "Небето е синьо."
+  },
+  {
+    "text": "I see a green tree.",
+    "level": "easy",
+    "i18_bg": "Виждам зелено дърво."
+  },
+  {
+    "text": "He is my friend.",
+    "level": "easy",
+    "i18_bg": "Той е моят приятел."
+  },
+  {
+    "text": "We play every day.",
+    "level": "easy",
+    "i18_bg": "Ние играем всеки ден."
+  },
+  {
+    "text": "Open the door, please.",
+    "level": "easy",
+    "i18_bg": "Отвори вратата, моля."
+  },
+  {
+    "text": "My bag is heavy.",
+    "level": "easy",
+    "i18_bg": "Чантата ми е тежка."
+  },
+  {
+    "text": "It is cold outside.",
+    "level": "easy",
+    "i18_bg": "Вън е студено."
+  },
+  {
+    "text": "The milk is on the table.",
+    "level": "easy",
+    "i18_bg": "Млякото е на масата."
+  },
+  {
+    "text": "I can jump high.",
+    "level": "easy",
+    "i18_bg": "Мога да скачам високо."
+  },
+  {
+    "text": "She is a happy girl.",
+    "level": "easy",
+    "i18_bg": "Тя е щастливо момиче."
+  },
+  {
+    "text": "Where is my pencil?",
+    "level": "easy",
+    "i18_bg": "Къде е моят молив?"
+  },
+  {
+    "text": "The bird can fly.",
+    "level": "easy",
+    "i18_bg": "Птицата може да лети."
+  },
+  {
+    "text": "Good morning, teacher!",
+    "level": "easy",
+    "i18_bg": "Добро утро, учителю!"
+  },
+  {
+    "text": "I love my family.",
+    "level": "easy",
+    "i18_bg": "Обичам семейството си."
+  },
+  {
+    "text": "My little brother loves playing with blue blocks.",
+    "level": "medium",
+    "i18_bg": "Малкият ми брат обича да си играе със сини кубчета."
+  },
+  {
+    "text": "There are five red apples in the basket.",
+    "level": "medium",
+    "i18_bg": "В кошницата има пет червени ябълки."
+  },
+  {
+    "text": "What is your favorite summer game?",
+    "level": "medium",
+    "i18_bg": "Коя е любимата ти лятна игра?"
+  },
+  {
+    "text": "She usually eats cereal for breakfast.",
+    "level": "medium",
+    "i18_bg": "Тя обикновено яде зърнена закуска за закуска."
+  },
+  {
+    "text": "We are walking to school together today.",
+    "level": "medium",
+    "i18_bg": "Днес ходим заедно на училище."
+  },
+  {
+    "text": "Can you help me clean my room?",
+    "level": "medium",
+    "i18_bg": "Можеш ли да ми помогнеш да почистя стаята си?"
+  },
+  {
+    "text": "The brown monkey is climbing a high tree.",
+    "level": "medium",
+    "i18_bg": "Кафявата маймуна се катери по високо дърво."
+  },
+  {
+    "text": "It is raining outside, so take your umbrella.",
+    "level": "medium",
+    "i18_bg": "Навън вали дъжд, така че си вземи чадъра."
+  },
+  {
+    "text": "My teacher reads us funny stories every Friday.",
+    "level": "medium",
+    "i18_bg": "Моят учител ни чете забавни истории всеки петък."
+  },
+  {
+    "text": "I need to buy a new notebook for math class.",
+    "level": "medium",
+    "i18_bg": "Трябва да си купя нова тетрадка за часа по математика."
+  },
+  {
+    "text": "Look at those bright stars in the night sky.",
+    "level": "medium",
+    "i18_bg": "Виж онези ярки звезди на нощното небе."
+  },
+  {
+    "text": "He forgot to bring his water bottle today.",
+    "level": "medium",
+    "i18_bg": "Той забрави да донесе бутилката си с вода днес."
+  },
+  {
+    "text": "Our classroom has colorful pictures on the wall.",
+    "level": "medium",
+    "i18_bg": "Нашата класна стая има цветни снимки на стената."
+  },
+  {
+    "text": "Do you want to draw a picture with me?",
+    "level": "medium",
+    "i18_bg": "Искаш ли да нарисуваме картина заедно?"
+  },
+  {
+    "text": "The playful puppy is running in the garden.",
+    "level": "medium",
+    "i18_bg": "Игривото кученце тича в градината."
+  },
+  {
+    "text": "Please put your shoes near the door.",
+    "level": "medium",
+    "i18_bg": "Моля, сложи обувките си до вратата."
+  },
+  {
+    "text": "We always wash our hands before lunch.",
+    "level": "medium",
+    "i18_bg": "Винаги си мием ръцете преди обяд."
+  },
+  {
+    "text": "My grandmother bakes delicious chocolate cookies.",
+    "level": "medium",
+    "i18_bg": "Баба ми пече вкусни шоколадови бисквити."
+  },
+  {
+    "text": "The yellow duckling is swimming in the pond.",
+    "level": "medium",
+    "i18_bg": "Жълтото патенце плува в езерото."
+  },
+  {
+    "text": "She wears a warm coat during the winter.",
+    "level": "medium",
+    "i18_bg": "Тя носи топло палто през зимата."
+  },
+  {
+    "text": "How many colored pencils do you have?",
+    "level": "medium",
+    "i18_bg": "Колко цветни молива имаш?"
+  },
+  {
+    "text": "They are building a big sandcastle on the beach.",
+    "level": "medium",
+    "i18_bg": "Те строят голям пясъчен замък на плажа."
+  },
+  {
+    "text": "I like to ride my bicycle in the park.",
+    "level": "medium",
+    "i18_bg": "Обичам да карам велосипеда си в парка."
+  },
+  {
+    "text": "Listen carefully to the instructions.",
+    "level": "medium",
+    "i18_bg": "Слушайте внимателно инструкциите."
+  },
+  {
+    "text": "The clock on the wall shows eight o'clock.",
+    "level": "medium",
+    "i18_bg": "Часовникът на стената показва осем часа."
+  },
+  {
+    "text": "Although it was raining heavily, the children decided to play outside with their new coats.",
+    "level": "hard",
+    "i18_bg": "Въпреки че валеше силно, децата решиха да играят навън с новите си палта."
+  },
+  {
+    "text": "If you finish your homework early, we can visit the zoo tomorrow afternoon.",
+    "level": "hard",
+    "i18_bg": "Ако си довършиш домашните рано, утре следобед можем да посетим зоопарка."
+  },
+  {
+    "text": "The curious little cat carefully hid behind the sofa because it was scared of the loud noise.",
+    "level": "hard",
+    "i18_bg": "Любопитната малка котка внимателно се скри зад дивана, защото се уплаши от силния шум."
+  },
+  {
+    "text": "My best friend invited me to her birthday party next Saturday, and I am very excited.",
+    "level": "hard",
+    "i18_bg": "Най-добрата ми приятелка ме покани на рождения си ден следващата събота и съм много развълнуван."
+  },
+  {
+    "text": "Even though the puzzle was difficult, he worked patiently until he placed every piece correctly.",
+    "level": "hard",
+    "i18_bg": "Въпреки че пъзелът беше труден, той работи търпеливо, докато постави всяко парче правилно."
+  }
+]
